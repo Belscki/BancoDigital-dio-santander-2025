@@ -9,7 +9,7 @@ Este é um projeto simples em Java desenvolvido durante o Bootcamp 2025. Ele dem
 Abra o terminal e execute:
 
 ```
-git clone https://github.com/Belscki/ContaBanco.git
+git clone https://github.com/Belscki/BancoDigital-dio-santander-2025.git
 cd seu-repositorio
 ```
 
